@@ -1,0 +1,75 @@
+body {
+	background-image: url("../img/solid.png");
+	background-color: white;
+	body{
+	font-family: Arial, Helvetica, sans-serif;
+	color:#444;
+	font-size:12px;
+	color: #000;
+}
+}
+
+.wrapper {
+	float: left, right;
+	width: auto;
+	}
+
+#greeting {
+	/*font-family: Ayuthaya;*/
+	font-size: 65px;
+	margin-left: 380px;
+	color: #BE2F33;
+	width: auto;
+	float: left, right;
+}
+
+#one a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+#two a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+#three a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+#one {
+	/*font-family: Marker Felt;*/
+	font-size: 28px;
+	-webkit-transform: rotate(-5deg);
+	margin-left: 240px;
+	margin-top: 170px;
+	z-index: 2;
+	position: absolute;
+}
+
+#two {
+	/*font-family: Marker Felt;*/
+	font-size: 28px;
+	-webkit-transform: rotate(-5deg);
+	margin-left: 250px;
+	margin-top: 250px;
+	z-index: 2;
+	position: absolute;
+}
+
+#three {
+	/*font-family: Marker Felt;*/
+	font-size: 28px;
+	-webkit-transform: rotate(-5deg);
+	margin-left: 258px;
+	margin-top: 325px;
+	z-index: 2;
+	position: absolute;
+}
+
